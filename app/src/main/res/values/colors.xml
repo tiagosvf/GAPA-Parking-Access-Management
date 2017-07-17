@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00b0da</color>
+    <color name="colorPrimaryDark">#00598c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cinzentoFundo">#fafafa</color>
+    <color name="cinzentoClaro">#f0efee</color>
+    <color name="secondary_text_material_dark">#b3000000</color>
+    <color name="black">#000000</color>
+    <color name="branco">#ffffff</color>
+    <color name="common_google_signin">#90000000</color>
+    <color name="primariaEscura">#0093b7</color>
+    <color name="azulEscuroStatusBar">#014972</color>
+    <color name="azulClaro">#00b0da</color>
+    <color name="azulEscuro">#00598c</color>
+    <color name="cinzentoNavBar">#f8f8f8f8</color>
+    <color name="cinzentoNavBarEscuro">#f8e5e5e5</color>
+    <color name="cinzentoBotao">#535353</color>
+</resources>
+
+
